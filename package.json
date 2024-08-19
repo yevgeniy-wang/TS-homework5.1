@@ -1,0 +1,11 @@
+{
+  "name": "tshomework-5.1",
+  "version": "1.0.0",
+  "description": "TS homework 5.1",
+  "main": "index.js",
+  "author": "Yevgeniy Wang",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
